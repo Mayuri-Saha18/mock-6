@@ -18,6 +18,15 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+    {
+      "brand": "Nexa",
+      "type": "Automated",
+      "year": "2022",
+      "kms": "34567",
+      "Description": "cdhvbkbviebvi",
+      "Price": "123456",
+      "id": 3
     }
   ],
   "wishlisted":[
