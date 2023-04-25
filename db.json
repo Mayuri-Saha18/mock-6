@@ -4,8 +4,8 @@
     {
       "id": 1,
       "brand": "Tata",
-			"type":"Manual",
       "year": 2019,
+			"type":"Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
@@ -18,23 +18,14 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
-    },
-    {
-      "brand": "Nexa",
-      "type": "Automated",
-      "year": "2022",
-      "kms": "34567",
-      "Description": "cdhvbkbviebvi",
-      "Price": "123456",
-      "id": 3
     }
   ],
-  "wishlisted":[
+"wishlisted_cars": [
     {
       "id": 1,
       "brand": "Tata",
-      "type": "Manual",
       "year": 2019,
+			"type":"Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
