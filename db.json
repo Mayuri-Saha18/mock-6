@@ -18,6 +18,24 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+    {
+      "brand": "Nexa",
+      "type": "Automated",
+      "year": "2021",
+      "kms": "54803",
+      "Description": "bcdhbcuibvuyv",
+      "Price": "1223456",
+      "id": 3
+    },
+    {
+      "brand": "Suzuki",
+      "type": "Manual",
+      "year": "2023",
+      "kms": "523344803",
+      "Description": "bcdhbcuibvjbkbijkibuyv",
+      "Price": "331223456",
+      "id": 4
     }
   ],
 "wishlisted_cars": [
